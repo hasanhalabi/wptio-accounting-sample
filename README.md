@@ -9,4 +9,4 @@ First things first, we need to talk about your system pages and user interface. 
 * [Read the details](http://wptools.io/how-to-build-the-user-interface-for-your-business-web-application/)
 * [Download the release of this step](https://github.com/hasanhalabi/wptio-accounting-sample/releases/tag/v1.0.0)
 
-
+![image](https://user-images.githubusercontent.com/9462467/32833589-ff766c08-ca07-11e7-869c-5eb1de5f5e3f.png)
