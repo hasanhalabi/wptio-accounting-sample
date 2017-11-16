@@ -18,6 +18,14 @@
  * Base structure
  */
 
+div#notification-panel {
+    display: block;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    width: 25%;
+}
+
 /* Move down content because we have a fixed navbar that is 3.5rem tall */
 body {
   padding-top: 3.5rem;
